@@ -1,5 +1,5 @@
 <?
 
-echo "ini anjg gblok";
+echo "ini anjg gblok juga";
 
 ?>
